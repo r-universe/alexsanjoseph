@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "compareDF"]
+	path = compareDF
+	url = https://github.com/alexsanjoseph/comparedf
+	shallow = true
+	registered = true
